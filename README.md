@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Juan Manuel 👋</h1>
 </div>
-<img src=(https://drive.google.com/file/d/1MgvJnC9DJAB9o5fsz3y4BXSDs01Amqc-/view?usp=drivesdk)>
+<img src= https://github.com/JMAPKO/JMAPKO/blob/main/Perfil%20GitHub%20grande.png?raw=true>
 
 
 
