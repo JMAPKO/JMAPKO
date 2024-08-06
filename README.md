@@ -8,6 +8,7 @@
 ## Sobre mi
  
 - 📲 Mobile developer/ Backend developer
+- 📱 Me gusta mucho trabajar con Dart y flutter
 - 🎥 Soy Mecatronico recibido de la UTN FRT
 - ✏️ me interesa mucho seguir mejorando en las practicas IT
 - 📗 Practicante de artes Marciales hace mas de 10 años
